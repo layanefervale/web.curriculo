@@ -16,7 +16,6 @@
 
 html,body{
     height: 100%;
-    background-image: linear-gradient(#f8f6f1d5,#686464);
     overflow-y: hidden;
     overflow-x: hidden;
 }
@@ -69,12 +68,13 @@ header{
    
 }
 .card{
-    width: 300px;
-    right: 1000px;
-    height: 500px;
+    width: 430px;
+    right: 1200px;
+    height: 210px;
     border-radius: 15px;
     margin-top: 200px;
-    background-color: rgba(151, 149, 149, 0.5);
+    background-color: rgba(221, 214, 214, 0.836);
+    
     
 }
 .texto{
@@ -82,13 +82,37 @@ header{
     margin-top: 20px;
 }
 .texto h2{
-    color: rgba(13, 14, 14, 0.562);
+    color: rgb(11, 12, 12);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: top;
     font-size: 30px;
+    text-align: center;
 }
-.uiux h1{
-    color: rgb(7, 7, 7);
-    font-family: Arial, Helvetica, sans-serif;
-   
+.ola h2{
+    color: #0e0c0c;
+    font-family:Tahoma;
+    font-size: 25px;
+    margin:0 140px;
+    
+}
+.card p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(41, 41, 40);
+    text-align: center;
+}
+.texto h3{
+    color: rgb(231, 238, 238);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: top;
+    font-size: 30px;
+    text-align: center;
+}
+.card h3{
+    width: 430px;
+    right: 1200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(41, 41, 40);
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 200px;
 }
