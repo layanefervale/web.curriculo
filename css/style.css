@@ -74,15 +74,10 @@ header{
     border-radius: 15px;
     margin-top: 200px;
     background-color: rgba(221, 214, 214, 0.836);
-    
-    
-}
-.texto{
-    background-color: #ebab1562;
-    margin-top: 20px;
 }
 .texto h2{
-    color: rgb(11, 12, 12);
+    background-color: #ebab1562;
+    color: rgb(41, 41, 40);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: top;
     font-size: 30px;
@@ -101,18 +96,20 @@ header{
     text-align: center;
 }
 .texto h3{
-    color: rgb(231, 238, 238);
+    background-color: #ebab1562;
+    color: rgb(41, 41, 40);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: top;
     font-size: 30px;
     text-align: center;
 }
 .card h3{
+    margin-top: 20px;
     width: 430px;
     right: 1200px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(41, 41, 40);
     text-align: center;
-    border-radius: 15px;
-    margin-top: 200px;
+    
+   
 }
